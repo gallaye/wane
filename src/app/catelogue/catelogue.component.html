@@ -1,0 +1,23 @@
+
+<div class="container" style="display:flex;">
+    
+
+  <!-- <div class="container" style="display:flex; flex-wrap:wrap;" > -->
+   
+    <div class="card" style="width:300px;">
+                  <img  src="{{bien.image}}" style="width:300px">
+              <div *ngIf="!bien.etat">
+                <p class="card-title"><span>nom </span>{{bien.nom}}</p>
+                <p class="card-text"><span>prix</span>{{bien.prix}} </p>
+                <p class="card-text"><span>localite</span>{{bien.localite}}</p>
+                <button type="button" class="btn btn-primary" (click)="changeBien(bien)">detail</button>
+              </div>
+               <div *ngIf="bien.etat">
+                <p class="card-title"><span>chambre </span>{{bien.chambre}}</p>
+                <p class="card-text"><span>salon</span>{{bien.salon}} </p>
+                <p class="card-text"><span>cuisine</span>{{bien.cuisine}} </p>
+                <button type="button" class="btn btn-primary" (click)="changeBien(bien)">fermer</button>
+            </div>
+
+    </div>
+  </div>

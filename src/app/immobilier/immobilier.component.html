@@ -1,0 +1,17 @@
+<nav>
+  <div class="nav-wrapper">
+    <a href="#" class="brand-logo">Logo</a>
+    <ul id="nav-mobile" class="right hide-on-med-and-down">
+      <li><a href="sass.html">Sass</a></li>
+      <li><a href="badges.html">Components</a></li>
+      <li><a href="collapsible.html">JavaScript</a></li>
+    </ul>
+  </div>
+</nav>
+<app-formbien></app-formbien>
+<div class="row" style="margin-top:150px;margin-left:50px">
+<div class="card" style="width:300px" *ngFor="let bien of biens">
+  <app-catelogue [bien] = "bien"></app-catelogue>
+  
+</div>
+</div>

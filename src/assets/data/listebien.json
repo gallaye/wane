@@ -1,0 +1,98 @@
+[  
+{
+      "nom": "appartement",
+      "prix": 50000,
+      "localite" : "Nord foire",
+      "image" :"./assets/images/0.jpg",
+      "chambre": "23",
+      "salon": 10,
+      "cuisine" : "25",
+      " etat" : true
+    },
+
+    {
+      "nom": "appartement",
+      "prix": 50000,
+      "localite" : "Nord foire",
+      "image" :"./assets/images/0.jpg",
+      "chambre": "23",
+      "salon": 10,
+      "cuisine" : "25",
+      " etat" : true
+    },
+
+
+    {
+      "nom": "appartement",
+      "prix": 50000,
+      "localite" : "Nord foire",
+      "image" :"./assets/images/0.jpg",
+      "chambre": "23",
+      "salon": 10,
+      "cuisine" : "25",
+      " etat" : true
+    },
+
+
+    {
+      "nom": "appartement",
+      "prix": 50000,
+      "localite" : "Nord foire",
+     "image" :"./assets/images/0.jpg",
+      "chambre": "23",
+      "salon": 10,
+      "cuisine" : "25",
+      " etat" : true
+    },
+   
+    {
+      "nom": "appartement",
+      "prix": 50000,
+      "localite" : "Nord foire",
+     "image" :"./assets/images/0.jpg",
+      "chambre": "23",
+      "salon": 10,
+      "cuisine" : "25",
+      " etat" : true
+    },
+
+
+    {
+      "nom": "appartement",
+      "prix": 50000,
+      "localite" : "Nord foire",
+     "image" :"./assets/images/0.jpg",
+      "chambre": "23",
+      "salon": 10,
+      "cuisine" : "25",
+     " etat" : true
+    },
+    {
+      "nom": "appartement",
+      "prix": 50000,
+      "localite" : "Nord foire",
+     "image" :"./assets/images/0.jpg",
+      "chambre": "23",
+      "salon": 10,
+      "cuisine" : "25",
+     " etat" : true
+    },
+    {
+      "nom": "appartement",
+      "prix": 50000,
+      "localite" : "Nord foire",
+     "image" :"./assets/images/0.jpg",
+      "chambre": "23",
+      "salon": 10,
+      "cuisine" : "25",
+     " etat" : true
+    }
+  
+ 
+  
+]
+  
+
+
+  
+
